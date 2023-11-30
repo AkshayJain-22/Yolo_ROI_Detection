@@ -4,7 +4,7 @@ This code generates a ROI in the video frame and detects the objects within that
 
 ## Snapshot of Object Detection without ROI.
 
-![Screenshot](Screenshot 2023-11-30 at 10.13.39 PM.png)
+![Screenshot](<Screenshot 2023-11-30 at 10.13.39 PM.png>)
 
 
 ## Snapshot of Object Detection without ROI.
