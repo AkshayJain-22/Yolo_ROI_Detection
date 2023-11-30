@@ -1,0 +1,7 @@
+torch
+torchvision
+opencv-python==4.8.1
+numpy
+pandas
+requests
+ultralytics
