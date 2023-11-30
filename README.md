@@ -9,5 +9,5 @@ This code generates a ROI region in the video frame and detects the objects with
 
 ### Snapshot of Object Detection with ROI (within red boundary).
 
-<img width="881" alt="Screenshot 2023-11-30 at 10 50 12 PM" src="https://github.com/AkshayJain-22/Yolo_ROI_Detection/assets/96162844/10f02a43-5f6c-4d07-b8c2-3b472012b9a6">
+![Uploading Screenshot 2023-11-30 at 11.19.33 PM.png…]()
 
